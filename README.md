@@ -92,6 +92,9 @@ The dataset used in this project contains customer information such as:
 
 ---
 
+## 🔗 GitHub Repository
+[Click here to view the project](https://github.com/Sakshig131/CREDIT-CARD-FRAUD-DETECTION)
+
 ---
 
 ## 📌 Future Improvements
