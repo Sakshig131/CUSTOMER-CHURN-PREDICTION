@@ -93,7 +93,7 @@ The dataset used in this project contains customer information such as:
 ---
 
 ## 🔗 GitHub Repository
-[Click here to view the project](https://github.com/Sakshig131/CREDIT-CARD-FRAUD-DETECTION)
+[Click here to view the project](https://github.com/Sakshig131/CUSTOMER-CHURN-PREDICTION)
 
 ---
 
